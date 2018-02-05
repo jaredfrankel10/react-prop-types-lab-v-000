@@ -13,7 +13,7 @@ import React from 'react';
            <li>{this.props.weight}</li>
          </ul>
        </div>
- 
+
      )
    }
  }
